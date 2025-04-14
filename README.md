@@ -159,3 +159,4 @@ Mohsen Bizhani - [bizhani.2002@gmail.com](mailto:bizhani.2002@gmail.com)
 ## Links
 
 - GitHub: [https://github.com/MohsenBizhani/PasswordGenerator](https://github.com/MohsenBizhani/PasswordGenerator)
+- PyPI: [https://pypi.org/project/passkey-generator-cli/](https://pypi.org/project/passkey-generator-cli/)
